@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55" started-at="2016-04-05T14:39:33Z" finished-at="2016-04-05T14:39:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55" started-at="2016-04-05T14:39:33Z" finished-at="2016-04-05T14:39:33Z">
+      <class name="Testng.AsertacitimeTest">
+        <test-method status="PASS" signature="configbeforeclass()[pri:0, instance:Testng.AsertacitimeTest@387c703b]" name="configbeforeclass" is-config="true" duration-ms="18" started-at="2016-04-05T20:09:33Z" finished-at="2016-04-05T20:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbeforeclass -->
+        <test-method status="PASS" signature="createcustomerTest()[pri:0, instance:Testng.AsertacitimeTest@387c703b]" name="createcustomerTest" duration-ms="7" started-at="2016-04-05T20:09:33Z" finished-at="2016-04-05T20:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcustomerTest -->
+        <test-method status="PASS" signature="configbeforemtd()[pri:0, instance:Testng.AsertacitimeTest@387c703b]" name="configbeforemtd" is-config="true" duration-ms="0" started-at="2016-04-05T20:09:33Z" finished-at="2016-04-05T20:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbeforemtd -->
+        <test-method status="PASS" signature="configaftermtd()[pri:0, instance:Testng.AsertacitimeTest@387c703b]" name="configaftermtd" is-config="true" duration-ms="0" started-at="2016-04-05T20:09:33Z" finished-at="2016-04-05T20:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configaftermtd -->
+        <test-method status="PASS" signature="modifycustomerTest()[pri:0, instance:Testng.AsertacitimeTest@387c703b]" name="modifycustomerTest" duration-ms="1" started-at="2016-04-05T20:09:33Z" finished-at="2016-04-05T20:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifycustomerTest -->
+        <test-method status="PASS" signature="configbeforemtd()[pri:0, instance:Testng.AsertacitimeTest@387c703b]" name="configbeforemtd" is-config="true" duration-ms="0" started-at="2016-04-05T20:09:33Z" finished-at="2016-04-05T20:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbeforemtd -->
+        <test-method status="PASS" signature="configaftermtd()[pri:0, instance:Testng.AsertacitimeTest@387c703b]" name="configaftermtd" is-config="true" duration-ms="1" started-at="2016-04-05T20:09:33Z" finished-at="2016-04-05T20:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configaftermtd -->
+        <test-method status="PASS" signature="configafterclass()[pri:0, instance:Testng.AsertacitimeTest@387c703b]" name="configafterclass" is-config="true" duration-ms="0" started-at="2016-04-05T20:09:33Z" finished-at="2016-04-05T20:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configafterclass -->
+      </class> <!-- Testng.AsertacitimeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

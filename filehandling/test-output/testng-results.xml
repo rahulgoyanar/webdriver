@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="779" started-at="2016-04-07T20:11:02Z" finished-at="2016-04-07T20:11:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="779" started-at="2016-04-07T20:11:02Z" finished-at="2016-04-07T20:11:03Z">
+      <class name="filehandling.Datafrom1col">
+        <test-method status="PASS" signature="CreateCustomerTest()[pri:0, instance:filehandling.Datafrom1col@57829d67]" name="CreateCustomerTest" duration-ms="776" started-at="2016-04-08T01:41:02Z" finished-at="2016-04-08T01:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCustomerTest -->
+      </class> <!-- filehandling.Datafrom1col -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

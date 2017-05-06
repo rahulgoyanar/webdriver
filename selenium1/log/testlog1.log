@@ -1,0 +1,34 @@
+2017-04-26 19:43:34,997 [main] INFO selenium1.Log4jdemo - launche browser
+2017-04-26 19:43:38,334 [main] INFO selenium1.Log4jdemo - launche naukari
+2017-04-26 19:43:38,561 [main] INFO selenium1.Log4jdemo - browser maximize
+2017-04-26 19:43:47,030 [main] WARN selenium1.Log4jdemo - please remove
+2017-04-26 19:43:47,031 [main] ERROR selenium1.Log4jdemo - code error
+2017-04-26 19:43:47,031 [main] INFO selenium1.Log4jdemo - end
+2017-04-26 19:46:48,623 [main] INFO selenium1.Log4jdemo - launche browser
+2017-04-26 19:46:53,657 [main] INFO selenium1.Log4jdemo - launche naukari
+2017-04-26 19:46:54,024 [main] INFO selenium1.Log4jdemo - browser maximize
+2017-04-26 20:05:48,745 [main] INFO selenium1.Log4jdemo - launche browser
+2017-04-26 20:05:53,558 [main] INFO selenium1.Log4jdemo - launche naukari
+2017-04-26 20:05:53,790 [main] INFO selenium1.Log4jdemo - browser maximize
+2017-04-26 20:06:02,186 [main] WARN selenium1.Log4jdemo - please remove
+2017-04-26 20:06:02,186 [main] ERROR selenium1.Log4jdemo - code error
+2017-04-26 20:06:02,187 [main] INFO selenium1.Log4jdemo - end
+2017-04-26 20:09:10,309 [main] INFO selenium1.Log4jdemo - launche browser
+2017-04-26 20:09:17,893 [main] INFO selenium1.Log4jdemo - launche naukari
+2017-04-26 20:09:18,421 [main] INFO selenium1.Log4jdemo - browser maximize
+2017-04-26 20:09:28,233 [main] INFO selenium1.Log4jdemo - check message
+2017-04-26 20:09:28,233 [main] INFO selenium1.Log4jdemo - end
+2017-04-26 20:21:56,039 [main] INFO selenium1.Log4jdemo - launche browser
+2017-04-26 20:23:25,657 [main] INFO selenium1.Log4jdemo - launche naukari
+2017-04-26 20:23:25,681 [main] INFO selenium1.Log4jdemo - browser maximize
+2017-04-26 20:24:07,305 [main] WARN selenium1.Log4jdemo - please remove
+2017-04-26 20:24:07,305 [main] ERROR selenium1.Log4jdemo - code error
+2017-04-26 20:26:01,509 [main] INFO selenium1.Log4jdemo - launche browser
+2017-04-26 20:26:07,506 [main] INFO selenium1.Log4jdemo - launche naukari
+2017-04-26 20:26:07,744 [main] INFO selenium1.Log4jdemo - browser maximize
+2017-04-26 20:26:20,663 [main] INFO selenium1.Log4jdemo - check message
+2017-04-26 22:47:29,746 [main] INFO selenium1.Log4jdemo - launche browser
+2017-04-26 22:47:36,987 [main] INFO selenium1.Log4jdemo - launche naukari
+2017-04-26 22:47:37,394 [main] INFO selenium1.Log4jdemo - browser maximize
+2017-04-26 22:47:46,786 [main] WARN selenium1.Log4jdemo - please remove
+2017-04-26 22:47:46,786 [main] ERROR selenium1.Log4jdemo - code error
